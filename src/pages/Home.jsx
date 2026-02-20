@@ -43,7 +43,7 @@ export default function Home() {
           <a href="https://github.com/rupakolee" target="_blank" rel="noopener noreferrer">
             <Github className="w-6 h-6 hover:text-blue-600" />
           </a>
-          <a href="https://linkedin.com/rupakolee" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/rupak-olee-769709242/" target="_blank" rel="noopener noreferrer">
             <Linkedin className="w-6 h-6 hover:text-blue-600" />
           </a>
           <a href="mailto:oleerupak11@gmail.com">
