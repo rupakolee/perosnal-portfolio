@@ -14,9 +14,9 @@ export default function Home() {
       link: "https://github.com/rupakolee/pharmacy.git",
     },
     {
-      title: "Portfolio Website",
-      description: "My personal portfolio showcasing skills & projects.",
-      link: "https://rupakolee.com.np",
+      title: "Pentabyte Nepal",
+      description: "An ecommerce website built from wordpress that focuses on tech products such as memory, graphics card, and other computer accessories.",
+      link: "https://github.com/rupakolee/pentabyte-nepal.git",
     },
   ];
 
