@@ -94,7 +94,7 @@ export default function Home() {
         </p>
         <a
           href="mailto:youremail@example.com"
-          className="px-6 py-3 rounded-lg bg-blue-600 text-white hover:bg-blue-700 transition"
+          className="px-6 py-3 rounded-lg bg-blue-600 !text-white hover:bg-blue-700 transition"
         >
           Say Hello
         </a>
